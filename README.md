@@ -60,7 +60,7 @@ lib/
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/EliazarNoaLlas/CRUD-Todo-Clean.git
+git clone 
 cd flutter_todo_clean
 ```
 
