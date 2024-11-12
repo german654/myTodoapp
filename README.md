@@ -147,13 +147,6 @@ ColorScheme.light(
    ```
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## 👥 Autores
-
-- **[Tu Nombre]** - *Trabajo Inicial* - [TuUsuario](https://github.com/TuUsuario)
 
 ## 🙏 Agradecimientos
 
